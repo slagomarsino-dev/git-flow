@@ -1,2 +1,2 @@
 # Git Tech Session
-Hola como andan
+Hola, como andan?
